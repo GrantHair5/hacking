@@ -1,3 +1,3 @@
 # hacking
 
-## For hacking 
+## For hacking hacky things 
